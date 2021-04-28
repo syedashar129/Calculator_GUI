@@ -10,7 +10,7 @@ Implemented elements of Graphic User Interface (GUI). The Java AWT swing package
 ```java
 import javax.swing.*;
 ```
-Used sendButton functions to create the calculator buttons and used actionListener to properly track movements. 
+Used sendButton functions such as these to create the calculator buttons and used actionListener to properly track movements. 
 
 ```java
 private void sendButton(){
